@@ -15,7 +15,7 @@ Each presentation should take approximately 5 minutes and cover the following ma
 ## Important points to remember:
 
 * You should use the slide deck in this folder (or a similar one of your own creation) to assist in your presentation.  Filling in the presentation template I have provided ([presentation-template.html](https://raw.githubusercontent.com/elizabrock/software-development-curriculum/master/nss/presentation-template.html), in this directory) should take you no more than 5 minutes.
-* If you have a slide deck through an online service, ensure that you have a local copy of it just in case.
+* Run this app with `http-server -p 8081` so you can run your demo app on the regular 8080 port at the same time.
 * Make sure that you have an appropriate dongle for your laptop (or that one will be available to you the day of the presentations).
 * Speak loudly and clearly, facing your audience.
 * DO NOT emphasize broken parts of the program.  If you notice a bug while you're presenting, just gloss past it. This is an important skill to learn for giving product demos.
